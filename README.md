@@ -2,9 +2,9 @@ Hi, im Rick here are some of the languages that i know
 
 · Java (currently learning)
 
-· html 
+· HTML 
 
-· css 
+· CSS
 
 Currently making Sunder Client
 
