@@ -4,6 +4,8 @@ Hi, im Rick here are some of the languages that i know
 
 · html 
 
+· css 
+
 Currently making Sunder Client
 
 Discord Rick Astley#0001
